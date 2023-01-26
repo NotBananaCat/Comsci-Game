@@ -1,5 +1,13 @@
 # Comsci-Game
 C++ Game Assignment
 
+####**The game**
+This game is a 2D game with WASD 
 
-**HELLO**
+
+####**How to play**
+WASD Controls
+
+
+
+
