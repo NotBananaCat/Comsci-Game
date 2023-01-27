@@ -785,6 +785,7 @@ int main() {
         
       } else if (movePlayerReturned == 3) {
         player->SetCoordToInitial();
+        initializeLevel(game->getLevel(), L_Parameters , X_Parameters , G_Parameters); 
         
       } else if (movePlayerReturned == 2) {
         player->SetCoordToInitial();
