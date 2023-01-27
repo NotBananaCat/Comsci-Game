@@ -9,10 +9,10 @@ Avoid danger and reach the ⚑ to get to the next level
 **How to play**
 You are 'M' use WASD Controls to move, 'R' to restart level if you get stuck :) . 
 
-Objects: 
+Objects:     
 ö = DEADLY GLOOMBA            
 ▲ = DEADLY SPIKE              
-L = DEADLY LASER 
+L = DEADLY LASER      
 | = DEADLY LEASER BEAM            
 X = DEADLY MOVING SPIKE            
 ⚑ = Go to next level      
