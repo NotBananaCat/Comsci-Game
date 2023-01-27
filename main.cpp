@@ -232,7 +232,7 @@ public:
         } else if (this->board[i][j] == 'M') {
           str += "\033[31;1m";
           str += "M";
-          str += "\033[0m";
+          str += "\033[0m"; //:)
 
         } else if (this->board[i][j] == 'E') {
           str += "\033[93;1m";
