@@ -20,9 +20,10 @@
 ║                            Of The Symbols                           ║
 ║                                                                     ║
 ║                               Objects:                              ║
-║         M = YOU              G = enemy      B = movable box         ║  
+║         M = YOU              ö = enemy      ▨ = movable box         ║  
 ║         * = projectile       | = lazer      L = Lazer shooter       ║
-║         ^ = deadly spike     # = wall       X = Moving Spike        ║
+║         ▲ = deadly spike     █ = wall       X = Moving Spike        ║
+║                              ⚑ = end                                ║
 ║                                                                     ║
 ║         -=-=-=-=-PRESS SPACE TO LEAVE HELP MENU-=-=-=-=-=-          ║
 ║                 USE WASD TO MOVE  (R is to reset)                   ║
