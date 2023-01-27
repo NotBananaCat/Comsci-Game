@@ -11,9 +11,9 @@ You are 'M' use WASD Controls to move, 'R' to restart level if you get stuck :) 
 
 Objects:
 ö = DEADLY GLOOMBA            
-▲ = DEADLY SPIKE             
-L = DEADLY LASER
-| = DEADLY LEASER BEAM
+▲ = DEADLY SPIKE              
+L = DEADLY LASER 
+| = DEADLY LEASER BEAM 
 X = DEADLY MOVING SPIKE
 ⚑ = Go to next level    
 ▨ = Moveable Box
